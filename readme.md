@@ -12,5 +12,4 @@ Space is a place without limits 🚀
 - 🌱 I’m currently learning **C++**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrian2793&show_icons=true&locale=en&layout=compact" alt="adrian2793" /></p>
-<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrian2793&show_icons=true&locale=en" alt="adrian2793" /></p>
